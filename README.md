@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @OwenKujo
 - 👀 I’m interested in Sports, coding, PC game and books
 - 🌱 I’m currently learning Python, Java and Flutter
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me My instagram @owenkujo
 
 <!---
