@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @OwenKujo
+- 👋 Hi, I’m Rapeepat Promlat but call me Owen
 - 👀 I’m interested in Sports, coding, PC game and books
 - 🌱 I’m currently learning Python, Java and Flutter
 - 📫 How to reach me My instagram @owenkujo
