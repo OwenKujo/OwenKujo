@@ -1,6 +1,5 @@
 - 👋 Hi, I’m Rapeepat Promlat but call me Owen
-- 👀 I’m interested in Sports, coding, PC game and books
-- 🌱 I’m currently learning Python, JavaScript and Flutter
+- 🌱 I’m working on React, Node for web development and Flutter for mobile development
 - 📫 How to reach me My instagram @owenkujo
 
 <!---
