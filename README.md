@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Rapeepat Promlat but call me Owen
-- 🌱 I’m working on React, Node for web development and Flutter for mobile development
+- 🌱 I’m a software developer
 - 📫 How to reach me My instagram @owenkujo
 
 <!---
