@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=owenkujo" alt="owenkujo" /></a> </p>
 
-- 🔭 I’m currently working on **Inscene**
+- 🔭 I’m currently working on **Inscene project(my startup)**
 
 - 🌱 I’m currently learning **Go and Lua**
 
