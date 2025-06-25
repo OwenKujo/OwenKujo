@@ -1,4 +1,4 @@
-[<h1 align="center">Hi 👋, I'm Owen</h1>
+<h1 align="center">Hi 👋, I'm Owen</h1>
 <h3 align="center">Fullstack Developer, from Thailand</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=owenkujo&label=Profile%20views&color=0e75b6&style=flat" alt="owenkujo" /> </p>
@@ -11,7 +11,7 @@
 
 - 👨‍💻 All of my projects are available at [owenkujo.vercel.app](owenkujo.vercel.app)
 
-- 💬 Ask me about **NestJS and react**
+- 💬 Ask me about **Backend Dev**
 
 - 📫 How to reach me **rapeepatpromlat@gmail.com**
 
