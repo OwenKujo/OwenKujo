@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **Inscene project(my startup)**
 
-- 🌱 I’m currently learning **Go and Dart**
+- 🌱 I’m currently learning **Go and Devops**
 
 - 👨‍💻 All of my projects are available at [owenkujo.vercel.app](owenkujo.vercel.app)
 
